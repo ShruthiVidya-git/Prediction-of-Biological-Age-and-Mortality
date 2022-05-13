@@ -4,6 +4,6 @@ This repo contains the implementation of CS 760 Project on Prediction of BA and 
 
 Run Instructions:
 
-CS760_BA_pca.ipynb : To run this in colab, the dataset file OppScrData.xlsx should be under /content/sample_data/
-PredictionOfDeathUsing_CT_Data.ipynb : To run this in colab, the dataset file OppScrData.xlsx should be under /content/sample_data/
-PredictionOfDeath_CT_Data_Clinical_Data : To run this in colab, the dataset file OppScrData.xlsx should be under /content/sample_data/
+CS760_BA_pca.ipynb: To run this in colab, the dataset file OppScrData.xlsx should be under /content/sample_data/
+
+
